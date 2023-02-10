@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Olumoko Moses Olorunleke
+          My Name Is Olumoko Moses Olorunleke
         </a>
       </header>
     </div>
